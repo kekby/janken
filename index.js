@@ -1,5 +1,5 @@
 // @ts-check
 
-import half from './src/half.js';
+import startGame from './src/game.js';
 
-export default half;
+startGame();
